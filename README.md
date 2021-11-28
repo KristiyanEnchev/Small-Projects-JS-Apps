@@ -2,6 +2,7 @@
 <h6 align="center">Some small projects from the Softuni JavaScript Applications course. June 2021</h6>
 
 <h4 align="center">Skills acquired</h4>
+
 1. _What is HTTP and how to make requests._
 2. _Working with non-relational databases._
 3. _Create simple Single Page applications._
