@@ -15,6 +15,6 @@
 1. _There is a local Node JS REST service included in every project. Documentation can be found <a href="https://github.com/softuni-practice-server/softuni-practice-server">here</a>: Thanks to <a href="https://github.com/viktorpts">viktorpts</a>_
 2. _In every project there is specifications on what were the requirements for the project in a word file._
 
-<h4 align="center">The main libraries used for creating this projecst are:</h4>
+<h4 align="center">The main libraries used for creating this projects are:</h4>
 <h5 align="center">lit-html</h5>
 <h5 align="center">page-js</h5>
