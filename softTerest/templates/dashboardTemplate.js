@@ -1,0 +1,16 @@
+import { html } from "../node_modules/lit-html/lit-html.js";
+
+
+export const dashboardTemplate = (data) => html`
+<div id="dashboard-holder">
+    ${data.length > 0 ? data.map(cardTemplate) : html`<h1>No ideas yet! Be the first one :)</h1>`}
+</div>`;
+
+const cardTemplate = (card) => html`
+<div class="card overflow-hidden current-card details" style="width: 20rem; height: 18rem;">
+    <div class="card-body">
+        <p class="card-text">${card.title}</p>
+    </div>
+    <img class="card-image" src=${card.img} alt="Card image cap">
+    <a class="btn" href="/details/${card._id}">Details</a>
+</div>`;
