@@ -12,9 +12,9 @@
 
 <h4 align="center">Projects Specifics</h4>
 
-1._There is a local Node JS REST service included in every project. Documentation can be found here: Thanks to viktorpts ._
-2_In every project there is specifications on what were the requirements for the project in a word file._
+1. _There is a local Node JS REST service included in every project. Documentation can be found here: Thanks to viktorpts ._
+2. _In every project there is specifications on what were the requirements for the project in a word file._
 
 <h4 align="center">The main libraries used for creating this projecst are:</h4>
-1._Lit-HTML_
-2._Page.js_
+1. _Lit-HTML_
+2. _Page.js_
